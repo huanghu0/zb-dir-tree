@@ -6,4 +6,6 @@
 
 npm i zb-dir-tree -g
 
+在对应的目录下面 执行zb-dir-tree即可
+
 node > 14
