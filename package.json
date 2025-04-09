@@ -1,0 +1,29 @@
+{
+  "name": "zb-dir-tree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin":{
+    "zb-dir-tree": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c"
+  },
+  "keywords": [
+    "zb-dir-tree",
+    "文件目录解析工具",
+    "tree"
+  ],
+  "author": "huanghu",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huanghu0/zb-dir-tree.git"
+  },  
+  "devDependencies": {
+    "rollup": "^2.79.2",
+    "rollup-plugin-terser": "^7.0.2"
+  }
+}
