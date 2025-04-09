@@ -3,6 +3,7 @@
 
 
 使用方法 全局安装zb-dir-tree
-npm i zb-dir-tree
+
+npm i zb-dir-tree -g
 
 node > 14
